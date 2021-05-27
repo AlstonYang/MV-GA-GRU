@@ -25,7 +25,6 @@ import matplotlib.pyplot as plt
 
 # In[2]:
 
-
 gpu_options = tf.compat.v1.GPUOptions(per_process_gpu_memory_fraction=0.3)
 sess = tf.compat.v1.Session(config=tf.compat.v1.ConfigProto(gpu_options=gpu_options))
 tf.compat.v1.keras.backend.set_session(sess)
@@ -233,11 +232,11 @@ def train_and_score(Network):
             ## To calculate the forecasting performance
             y_pred_train = sc.inverse_transform(model.predict(x_train_scaled))
             loss_train = tf.reduce_mean(tf.square(y_train - y_pred_train)).numpy()
-            accuracy_train = tf.reduce_sum(tf.cast(tf.less_equal(tf.abs(y_train - y_pred_train), 500), dtype = tf.float32)).numpy()/y_train.shape[0]
+            accuracy_train = tf.reduce_sum(tf.cast(tf.less_equal(tf.abs(y_train - y_pred_train), 1000), dtype = tf.float32)).numpy()/y_train.shape[0]
 
             y_pred_test = sc.inverse_transform(model.predict(x_test_scaled))
             loss_test = tf.reduce_mean(tf.square(y_test - y_pred_test)).numpy()
-            accuracy_test = tf.reduce_sum(tf.cast(tf.less_equal(tf.abs(y_test - y_pred_test), 500), dtype = tf.float32)).numpy()/y_train.shape[0]
+            accuracy_test = tf.reduce_sum(tf.cast(tf.less_equal(tf.abs(y_test - y_pred_test), 1000), dtype = tf.float32)).numpy()/y_test.shape[0]
 
             epoch_performance = pd.DataFrame({
                 "Loss_train":loss_train,
@@ -247,7 +246,7 @@ def train_and_score(Network):
             },index=[0])
 
             performance_indicator = performance_indicator.append(epoch_performance,ignore_index=True)
-            print("Epoch: %d, Loss: %.2f, Accuracy: %.2f%%"%(e,loss_train,accuracy_train*100))
+            print("Epoch: %d, Loss: %.2f, Accuracy_train: %.2f%%, Accuracy_test: %.2f%%"%(e,loss_train,accuracy_train*100,accuracy_test*100))
             print("-"*50)
 
 
@@ -267,8 +266,8 @@ def train_and_score(Network):
     
     y_pred_test = sc.inverse_transform(model.predict(x_test_scaled))
     loss_test = tf.reduce_mean(tf.square(y_test - y_pred_test)).numpy()
-    accuracy_test = tf.reduce_sum(tf.cast(tf.less_equal(tf.abs(y_test - y_pred_test), 500), dtype = tf.float32)).numpy()/y_train.shape[0]
-    
+    accuracy_test = tf.reduce_sum(tf.cast(tf.less_equal(tf.abs(y_test - y_pred_test), 1000), dtype = tf.float32)).numpy()/y_test.shape[0]
+
     Network.y_true = y_test
     Network.y_predict = y_pred_test
     
