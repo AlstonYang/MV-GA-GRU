@@ -1,0 +1,15 @@
+05/07/2021 09:32:31 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:32:31 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:33:11 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:35:20 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:35:20 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:36:00 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:36:24 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:36:24 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:37:08 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:40:59 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:40:59 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:41:37 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:46:11 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:46:11 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:46:41 AM - DEBUG - Creating converter from 5 to 3

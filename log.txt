@@ -1,0 +1,342 @@
+05/07/2021 09:32:31 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:32:31 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:33:11 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:35:20 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:35:20 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:36:00 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:36:24 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:36:24 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:37:08 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:40:59 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:40:59 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:41:37 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:46:11 AM - INFO - ***Evolving 20 generations with population 20***
+05/07/2021 09:46:11 AM - INFO - ***Doing generation 1 of 20***
+05/07/2021 09:46:41 AM - DEBUG - Creating converter from 5 to 3
+05/07/2021 09:36:40 PM - INFO - Generation overall average: 2.35%
+05/07/2021 09:36:40 PM - INFO - Generation top five average: 4.55%
+05/07/2021 09:36:40 PM - INFO - --------------------------------------------------------------------------------
+05/07/2021 09:36:40 PM - INFO - ***Doing generation 2 of 20***
+05/08/2021 03:42:39 AM - INFO - Generation overall average: 3.02%
+05/08/2021 03:42:39 AM - INFO - Generation top five average: 5.05%
+05/08/2021 03:42:39 AM - INFO - --------------------------------------------------------------------------------
+05/08/2021 03:42:39 AM - INFO - ***Doing generation 3 of 20***
+05/08/2021 04:52:57 AM - INFO - ***Evolving 20 generations with population 20***
+05/08/2021 04:52:57 AM - INFO - ***Doing generation 1 of 20***
+05/08/2021 04:54:29 AM - INFO - ***Evolving 20 generations with population 20***
+05/08/2021 04:54:29 AM - INFO - ***Doing generation 1 of 20***
+05/08/2021 04:55:03 AM - DEBUG - Creating converter from 5 to 3
+05/08/2021 03:17:57 PM - INFO - Generation overall average: 10.05%
+05/08/2021 03:17:57 PM - INFO - Generation top five average: 19.54%
+05/08/2021 03:17:57 PM - INFO - --------------------------------------------------------------------------------
+05/08/2021 03:17:57 PM - INFO - ***Doing generation 2 of 20***
+05/08/2021 08:43:51 PM - INFO - Generation overall average: 15.26%
+05/08/2021 08:43:51 PM - INFO - Generation top five average: 22.96%
+05/08/2021 08:43:51 PM - INFO - --------------------------------------------------------------------------------
+05/08/2021 08:43:51 PM - INFO - ***Doing generation 3 of 20***
+05/08/2021 11:00:19 PM - INFO - Generation overall average: 17.02%
+05/08/2021 11:00:19 PM - INFO - Generation top five average: 23.68%
+05/08/2021 11:00:19 PM - INFO - --------------------------------------------------------------------------------
+05/08/2021 11:00:19 PM - INFO - ***Doing generation 4 of 20***
+05/09/2021 03:34:48 AM - INFO - Generation overall average: 18.18%
+05/09/2021 03:34:48 AM - INFO - Generation top five average: 24.31%
+05/09/2021 03:34:48 AM - INFO - --------------------------------------------------------------------------------
+05/09/2021 03:34:48 AM - INFO - ***Doing generation 5 of 20***
+05/09/2021 09:20:11 AM - INFO - Generation overall average: 18.90%
+05/09/2021 09:20:11 AM - INFO - Generation top five average: 25.70%
+05/09/2021 09:20:11 AM - INFO - --------------------------------------------------------------------------------
+05/09/2021 09:20:11 AM - INFO - ***Doing generation 6 of 20***
+05/09/2021 05:26:09 PM - INFO - Generation overall average: 19.94%
+05/09/2021 05:26:09 PM - INFO - Generation top five average: 25.75%
+05/09/2021 05:26:09 PM - INFO - --------------------------------------------------------------------------------
+05/09/2021 05:26:09 PM - INFO - ***Doing generation 7 of 20***
+05/09/2021 10:22:27 PM - INFO - Generation overall average: 18.19%
+05/09/2021 10:22:27 PM - INFO - Generation top five average: 25.75%
+05/09/2021 10:22:27 PM - INFO - --------------------------------------------------------------------------------
+05/09/2021 10:22:27 PM - INFO - ***Doing generation 8 of 20***
+05/10/2021 04:04:40 AM - INFO - Generation overall average: 19.85%
+05/10/2021 04:04:40 AM - INFO - Generation top five average: 26.30%
+05/10/2021 04:04:40 AM - INFO - --------------------------------------------------------------------------------
+05/10/2021 04:04:40 AM - INFO - ***Doing generation 9 of 20***
+05/10/2021 07:50:38 AM - INFO - Generation overall average: 19.24%
+05/10/2021 07:50:38 AM - INFO - Generation top five average: 27.36%
+05/10/2021 07:50:38 AM - INFO - --------------------------------------------------------------------------------
+05/10/2021 07:50:38 AM - INFO - ***Doing generation 10 of 20***
+05/10/2021 11:42:10 AM - INFO - Generation overall average: 21.90%
+05/10/2021 11:42:10 AM - INFO - Generation top five average: 28.10%
+05/10/2021 11:42:10 AM - INFO - --------------------------------------------------------------------------------
+05/10/2021 11:42:10 AM - INFO - ***Doing generation 11 of 20***
+05/10/2021 05:41:11 PM - INFO - Generation overall average: 21.29%
+05/10/2021 05:41:11 PM - INFO - Generation top five average: 28.87%
+05/10/2021 05:41:11 PM - INFO - --------------------------------------------------------------------------------
+05/10/2021 05:41:11 PM - INFO - ***Doing generation 12 of 20***
+05/11/2021 04:31:30 AM - INFO - Generation overall average: 18.73%
+05/11/2021 04:31:30 AM - INFO - Generation top five average: 29.08%
+05/11/2021 04:31:30 AM - INFO - --------------------------------------------------------------------------------
+05/11/2021 04:31:30 AM - INFO - ***Doing generation 13 of 20***
+05/11/2021 10:54:26 AM - INFO - Generation overall average: 19.76%
+05/11/2021 10:54:26 AM - INFO - Generation top five average: 29.08%
+05/11/2021 10:54:26 AM - INFO - --------------------------------------------------------------------------------
+05/11/2021 10:54:26 AM - INFO - ***Doing generation 14 of 20***
+05/11/2021 07:18:41 PM - INFO - Generation overall average: 19.98%
+05/11/2021 07:18:41 PM - INFO - Generation top five average: 29.08%
+05/11/2021 07:18:41 PM - INFO - --------------------------------------------------------------------------------
+05/11/2021 07:18:41 PM - INFO - ***Doing generation 15 of 20***
+05/12/2021 02:13:03 AM - INFO - Generation overall average: 22.93%
+05/12/2021 02:13:03 AM - INFO - Generation top five average: 29.61%
+05/12/2021 02:13:03 AM - INFO - --------------------------------------------------------------------------------
+05/12/2021 02:13:03 AM - INFO - ***Doing generation 16 of 20***
+05/12/2021 08:26:24 AM - INFO - Generation overall average: 21.19%
+05/12/2021 08:26:24 AM - INFO - Generation top five average: 29.82%
+05/12/2021 08:26:24 AM - INFO - --------------------------------------------------------------------------------
+05/12/2021 08:26:24 AM - INFO - ***Doing generation 17 of 20***
+05/12/2021 02:26:32 PM - INFO - ***Evolving 20 generations with population 20***
+05/12/2021 02:26:32 PM - INFO - ***Doing generation 1 of 20***
+05/12/2021 02:27:06 PM - DEBUG - Creating converter from 5 to 3
+05/13/2021 03:15:06 AM - INFO - Generation overall average: 28.03%
+05/13/2021 03:15:06 AM - INFO - Generation top five average: 39.09%
+05/13/2021 03:15:06 AM - INFO - --------------------------------------------------------------------------------
+05/13/2021 03:15:06 AM - INFO - ***Doing generation 2 of 20***
+05/13/2021 10:49:07 AM - INFO - Generation overall average: 29.93%
+05/13/2021 10:49:07 AM - INFO - Generation top five average: 40.46%
+05/13/2021 10:49:07 AM - INFO - --------------------------------------------------------------------------------
+05/13/2021 10:49:07 AM - INFO - ***Doing generation 3 of 20***
+05/13/2021 05:04:33 PM - INFO - Generation overall average: 31.56%
+05/13/2021 05:04:33 PM - INFO - Generation top five average: 41.26%
+05/13/2021 05:04:33 PM - INFO - --------------------------------------------------------------------------------
+05/13/2021 05:04:33 PM - INFO - ***Doing generation 4 of 20***
+05/13/2021 10:45:25 PM - INFO - Generation overall average: 28.00%
+05/13/2021 10:45:25 PM - INFO - Generation top five average: 41.26%
+05/13/2021 10:45:25 PM - INFO - --------------------------------------------------------------------------------
+05/13/2021 10:45:25 PM - INFO - ***Doing generation 5 of 20***
+05/14/2021 05:50:38 AM - INFO - Generation overall average: 27.00%
+05/14/2021 05:50:38 AM - INFO - Generation top five average: 41.26%
+05/14/2021 05:50:38 AM - INFO - --------------------------------------------------------------------------------
+05/14/2021 05:50:38 AM - INFO - ***Doing generation 6 of 20***
+05/14/2021 11:55:40 AM - INFO - Generation overall average: 29.84%
+05/14/2021 11:55:40 AM - INFO - Generation top five average: 41.26%
+05/14/2021 11:55:40 AM - INFO - --------------------------------------------------------------------------------
+05/14/2021 11:55:40 AM - INFO - ***Doing generation 7 of 20***
+05/14/2021 05:21:15 PM - INFO - Generation overall average: 28.57%
+05/14/2021 05:21:15 PM - INFO - Generation top five average: 41.26%
+05/14/2021 05:21:15 PM - INFO - --------------------------------------------------------------------------------
+05/14/2021 05:21:15 PM - INFO - ***Doing generation 8 of 20***
+05/14/2021 11:10:56 PM - INFO - Generation overall average: 28.53%
+05/14/2021 11:10:56 PM - INFO - Generation top five average: 41.26%
+05/14/2021 11:10:56 PM - INFO - --------------------------------------------------------------------------------
+05/14/2021 11:10:56 PM - INFO - ***Doing generation 9 of 20***
+05/15/2021 06:29:08 AM - INFO - Generation overall average: 26.74%
+05/15/2021 06:29:08 AM - INFO - Generation top five average: 41.26%
+05/15/2021 06:29:08 AM - INFO - --------------------------------------------------------------------------------
+05/15/2021 06:29:08 AM - INFO - ***Doing generation 10 of 20***
+05/15/2021 11:25:34 AM - INFO - Generation overall average: 26.40%
+05/15/2021 11:25:34 AM - INFO - Generation top five average: 41.26%
+05/15/2021 11:25:34 AM - INFO - --------------------------------------------------------------------------------
+05/15/2021 11:25:34 AM - INFO - ***Doing generation 11 of 20***
+05/15/2021 05:15:45 PM - INFO - Generation overall average: 31.05%
+05/15/2021 05:15:45 PM - INFO - Generation top five average: 41.26%
+05/15/2021 05:15:45 PM - INFO - --------------------------------------------------------------------------------
+05/15/2021 05:15:45 PM - INFO - ***Doing generation 12 of 20***
+05/15/2021 10:58:52 PM - INFO - Generation overall average: 27.24%
+05/15/2021 10:58:52 PM - INFO - Generation top five average: 41.31%
+05/15/2021 10:58:52 PM - INFO - --------------------------------------------------------------------------------
+05/15/2021 10:58:52 PM - INFO - ***Doing generation 13 of 20***
+05/16/2021 03:23:11 AM - INFO - Generation overall average: 30.85%
+05/16/2021 03:23:11 AM - INFO - Generation top five average: 41.83%
+05/16/2021 03:23:11 AM - INFO - --------------------------------------------------------------------------------
+05/16/2021 03:23:11 AM - INFO - ***Doing generation 14 of 20***
+05/16/2021 07:18:57 AM - INFO - Generation overall average: 31.29%
+05/16/2021 07:18:57 AM - INFO - Generation top five average: 41.83%
+05/16/2021 07:18:57 AM - INFO - --------------------------------------------------------------------------------
+05/16/2021 07:18:57 AM - INFO - ***Doing generation 15 of 20***
+05/16/2021 12:24:10 PM - INFO - Generation overall average: 25.84%
+05/16/2021 12:24:10 PM - INFO - Generation top five average: 41.83%
+05/16/2021 12:24:10 PM - INFO - --------------------------------------------------------------------------------
+05/16/2021 12:24:10 PM - INFO - ***Doing generation 16 of 20***
+05/16/2021 08:34:17 PM - INFO - Generation overall average: 30.05%
+05/16/2021 08:34:17 PM - INFO - Generation top five average: 41.83%
+05/16/2021 08:34:17 PM - INFO - --------------------------------------------------------------------------------
+05/16/2021 08:34:17 PM - INFO - ***Doing generation 17 of 20***
+05/17/2021 12:18:34 AM - INFO - Generation overall average: 33.24%
+05/17/2021 12:18:34 AM - INFO - Generation top five average: 41.83%
+05/17/2021 12:18:34 AM - INFO - --------------------------------------------------------------------------------
+05/17/2021 12:18:34 AM - INFO - ***Doing generation 18 of 20***
+05/17/2021 05:03:19 AM - INFO - Generation overall average: 31.70%
+05/17/2021 05:03:19 AM - INFO - Generation top five average: 41.83%
+05/17/2021 05:03:19 AM - INFO - --------------------------------------------------------------------------------
+05/17/2021 05:03:19 AM - INFO - ***Doing generation 19 of 20***
+05/18/2021 02:46:35 PM - INFO - ***Evolving 20 generations with population 20***
+05/18/2021 02:46:35 PM - INFO - ***Doing generation 1 of 20***
+05/18/2021 02:47:01 PM - DEBUG - Creating converter from 5 to 3
+05/19/2021 12:08:37 AM - INFO - Generation overall average: 19.25%
+05/19/2021 12:08:37 AM - INFO - Generation top five average: 29.38%
+05/19/2021 12:08:37 AM - INFO - --------------------------------------------------------------------------------
+05/19/2021 12:08:37 AM - INFO - ***Doing generation 2 of 20***
+05/19/2021 06:29:27 AM - INFO - Generation overall average: 23.88%
+05/19/2021 06:29:27 AM - INFO - Generation top five average: 34.96%
+05/19/2021 06:29:27 AM - INFO - --------------------------------------------------------------------------------
+05/19/2021 06:29:27 AM - INFO - ***Doing generation 3 of 20***
+05/19/2021 12:51:00 PM - INFO - Generation overall average: 26.86%
+05/19/2021 12:51:00 PM - INFO - Generation top five average: 38.70%
+05/19/2021 12:51:00 PM - INFO - --------------------------------------------------------------------------------
+05/19/2021 12:51:00 PM - INFO - ***Doing generation 4 of 20***
+05/19/2021 07:37:46 PM - INFO - Generation overall average: 24.97%
+05/19/2021 07:37:46 PM - INFO - Generation top five average: 39.57%
+05/19/2021 07:37:46 PM - INFO - --------------------------------------------------------------------------------
+05/19/2021 07:37:46 PM - INFO - ***Doing generation 5 of 20***
+05/20/2021 12:58:43 AM - INFO - Generation overall average: 28.91%
+05/20/2021 12:58:43 AM - INFO - Generation top five average: 40.22%
+05/20/2021 12:58:43 AM - INFO - --------------------------------------------------------------------------------
+05/20/2021 12:58:43 AM - INFO - ***Doing generation 6 of 20***
+05/20/2021 05:24:07 AM - INFO - Generation overall average: 29.13%
+05/20/2021 05:24:07 AM - INFO - Generation top five average: 40.22%
+05/20/2021 05:24:07 AM - INFO - --------------------------------------------------------------------------------
+05/20/2021 05:24:07 AM - INFO - ***Doing generation 7 of 20***
+05/20/2021 10:24:48 AM - INFO - Generation overall average: 31.68%
+05/20/2021 10:24:48 AM - INFO - Generation top five average: 40.22%
+05/20/2021 10:24:48 AM - INFO - --------------------------------------------------------------------------------
+05/20/2021 10:24:48 AM - INFO - ***Doing generation 8 of 20***
+05/20/2021 02:25:09 PM - INFO - Generation overall average: 31.23%
+05/20/2021 02:25:09 PM - INFO - Generation top five average: 41.09%
+05/20/2021 02:25:09 PM - INFO - --------------------------------------------------------------------------------
+05/20/2021 02:25:09 PM - INFO - ***Doing generation 9 of 20***
+05/20/2021 06:47:17 PM - INFO - Generation overall average: 31.63%
+05/20/2021 06:47:17 PM - INFO - Generation top five average: 41.09%
+05/20/2021 06:47:17 PM - INFO - --------------------------------------------------------------------------------
+05/20/2021 06:47:17 PM - INFO - ***Doing generation 10 of 20***
+05/21/2021 12:28:09 AM - INFO - Generation overall average: 32.35%
+05/21/2021 12:28:09 AM - INFO - Generation top five average: 41.30%
+05/21/2021 12:28:09 AM - INFO - --------------------------------------------------------------------------------
+05/21/2021 12:28:09 AM - INFO - ***Doing generation 11 of 20***
+05/21/2021 05:25:54 AM - INFO - Generation overall average: 33.97%
+05/21/2021 05:25:54 AM - INFO - Generation top five average: 41.96%
+05/21/2021 05:25:54 AM - INFO - --------------------------------------------------------------------------------
+05/21/2021 05:25:54 AM - INFO - ***Doing generation 12 of 20***
+05/21/2021 10:23:36 AM - INFO - Generation overall average: 33.80%
+05/21/2021 10:23:36 AM - INFO - Generation top five average: 42.39%
+05/21/2021 10:23:36 AM - INFO - --------------------------------------------------------------------------------
+05/21/2021 10:23:36 AM - INFO - ***Doing generation 13 of 20***
+05/21/2021 03:05:26 PM - INFO - Generation overall average: 33.75%
+05/21/2021 03:05:26 PM - INFO - Generation top five average: 43.04%
+05/21/2021 03:05:26 PM - INFO - --------------------------------------------------------------------------------
+05/21/2021 03:05:26 PM - INFO - ***Doing generation 14 of 20***
+05/21/2021 08:22:20 PM - INFO - Generation overall average: 32.23%
+05/21/2021 08:22:20 PM - INFO - Generation top five average: 44.57%
+05/21/2021 08:22:20 PM - INFO - --------------------------------------------------------------------------------
+05/21/2021 08:22:20 PM - INFO - ***Doing generation 15 of 20***
+05/22/2021 01:14:24 AM - INFO - Generation overall average: 32.28%
+05/22/2021 01:14:24 AM - INFO - Generation top five average: 44.57%
+05/22/2021 01:14:24 AM - INFO - --------------------------------------------------------------------------------
+05/22/2021 01:14:24 AM - INFO - ***Doing generation 16 of 20***
+05/22/2021 07:05:08 AM - INFO - Generation overall average: 34.13%
+05/22/2021 07:05:08 AM - INFO - Generation top five average: 45.43%
+05/22/2021 07:05:08 AM - INFO - --------------------------------------------------------------------------------
+05/22/2021 07:05:08 AM - INFO - ***Doing generation 17 of 20***
+05/22/2021 12:09:54 PM - INFO - Generation overall average: 31.63%
+05/22/2021 12:09:54 PM - INFO - Generation top five average: 45.43%
+05/22/2021 12:09:54 PM - INFO - --------------------------------------------------------------------------------
+05/22/2021 12:09:54 PM - INFO - ***Doing generation 18 of 20***
+05/22/2021 05:39:12 PM - INFO - Generation overall average: 31.47%
+05/22/2021 05:39:12 PM - INFO - Generation top five average: 45.43%
+05/22/2021 05:39:12 PM - INFO - --------------------------------------------------------------------------------
+05/22/2021 05:39:12 PM - INFO - ***Doing generation 19 of 20***
+05/22/2021 09:49:37 PM - INFO - Generation overall average: 34.78%
+05/22/2021 09:49:37 PM - INFO - Generation top five average: 45.43%
+05/22/2021 09:49:37 PM - INFO - --------------------------------------------------------------------------------
+05/22/2021 09:49:37 PM - INFO - ***Doing generation 20 of 20***
+05/23/2021 02:52:06 AM - INFO - Generation overall average: 38.97%
+05/23/2021 02:52:06 AM - INFO - Generation top five average: 48.70%
+05/23/2021 02:52:06 AM - INFO - --------------------------------------------------------------------------------
+05/23/2021 02:52:06 AM - INFO - --------------------------------------------------------------------------------
+05/23/2021 02:52:06 AM - INFO - {'window_size': 21, 'batch_size': 14, 'nb_neurons': 28, 'nb_layers': 3, 'optimizer': 'adam'}
+05/23/2021 02:52:06 AM - INFO - Network accuracy: 56.52%
+05/23/2021 02:52:06 AM - INFO - {'window_size': 21, 'batch_size': 14, 'nb_neurons': 28, 'nb_layers': 3, 'optimizer': 'adam'}
+05/23/2021 02:52:06 AM - INFO - Network accuracy: 48.91%
+05/23/2021 02:52:06 AM - INFO - {'window_size': 22, 'batch_size': 14, 'nb_neurons': 19, 'nb_layers': 3, 'optimizer': 'adam'}
+05/23/2021 02:52:06 AM - INFO - Network accuracy: 46.74%
+05/23/2021 02:52:06 AM - INFO - {'window_size': 21, 'batch_size': 14, 'nb_neurons': 28, 'nb_layers': 3, 'optimizer': 'adam'}
+05/23/2021 02:52:06 AM - INFO - Network accuracy: 46.74%
+05/23/2021 02:52:06 AM - INFO - {'window_size': 22, 'batch_size': 14, 'nb_neurons': 28, 'nb_layers': 3, 'optimizer': 'adam'}
+05/23/2021 02:52:06 AM - INFO - Network accuracy: 44.57%
+05/27/2021 04:25:01 AM - DEBUG - pickle loaded: /usr/local/lib/python3.6/dist-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+05/27/2021 04:34:54 AM - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:34:54 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+05/27/2021 04:34:54 AM - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+05/27/2021 04:43:40 AM - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniIta.ttf) italic normal 400 normal>) = 11.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Oblique.ttf) oblique normal 400 normal>) = 1.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Oblique.ttf) oblique normal 400 normal>) = 11.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Bold.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-Bold.ttf) normal normal 700 normal>) = 0.33499999999999996
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Display' (DejaVuSansDisplay.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralItalic.ttf) italic normal 400 normal>) = 11.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeFiveSym' (STIXSizFiveSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmex10' (cmex10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Serif Display' (DejaVuSerifDisplay.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-Italic.ttf) italic normal 400 normal>) = 11.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmb10' (cmb10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmtt10' (cmtt10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneralBolIta.ttf) italic normal 700 normal>) = 11.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmsy10' (cmsy10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeThreeSym' (STIXSizThreeSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-BoldOblique.ttf) oblique normal 700 normal>) = 11.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmss10' (cmss10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUni.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeFourSym' (STIXSizFourSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans-BoldOblique.ttf) oblique normal 700 normal>) = 1.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Serif' (DejaVuSerif-BoldItalic.ttf) italic normal 700 normal>) = 11.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmr10' (cmr10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXGeneral' (STIXGeneral.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXNonUnicode' (STIXNonUniBolIta.ttf) italic normal 700 normal>) = 11.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'cmmi10' (cmmi10.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeOneSym' (STIXSizOneSymReg.ttf) normal normal 400 normal>) = 10.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans Mono' (DejaVuSansMono-Bold.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'STIXSizeTwoSym' (STIXSizTwoSymBol.ttf) normal normal 700 normal>) = 10.335
+05/27/2021 04:43:40 AM - DEBUG - findfont: score(<Font 'DejaVu Sans' (DejaVuSans.ttf) normal normal 400 normal>) = 0.05
+05/27/2021 04:43:40 AM - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+05/27/2021 06:28:56 AM - DEBUG - Creating converter from 3 to 5
