@@ -8,7 +8,7 @@
 import random
 import logging
 from train import train_and_score
-
+import matplotlib.pyplot as plt
 
 # In[2]:
 
